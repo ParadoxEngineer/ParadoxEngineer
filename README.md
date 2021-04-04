@@ -1,8 +1,12 @@
-### Hi there 👋
+Hello world!
+
+This is the Github page for Jonathan Edwards, feel free to look around.
+
+You can reach me at JWEParadox@gmail.com
 
 <!--
 **ParadoxEngineer/ParadoxEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

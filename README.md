@@ -2,6 +2,8 @@ Hello world!
 
 This is the Github page for Jonathan Edwards, feel free to look around.
 
+Cryptography-Suite is my current project, a set of cryptography programs in several languages (currently only python).
+
 You can reach me at JWEParadox@gmail.com
 
 <!--
